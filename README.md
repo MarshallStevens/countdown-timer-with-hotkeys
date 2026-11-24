@@ -4,6 +4,9 @@ A lightweight, always-on-top countdown timer for Windows that you control with g
 
 Windows' built-in Clock app has a timer, but there are no hotkeys for it. You have to click into the app every time. I built this so I can start, pause, and reset a countdown without leaving whatever I'm working in (or playing).
 
+<img width="800" height="450" alt="timer" src="https://github.com/user-attachments/assets/afbf42d5-e2a7-4cf0-a05a-93bd4bac05fe" />
+
+
 ## Features
 
 - **Global hotkeys** that work from any app, including fullscreen games
